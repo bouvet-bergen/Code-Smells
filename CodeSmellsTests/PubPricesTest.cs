@@ -6,12 +6,6 @@ namespace CodeSmellsTests
 {
     public class PubPricesTest
     {
-        [Fact]
-        public void Test1()
-        {
-
-        }
-
         private Pub pub;
 
         public PubPricesTest()
